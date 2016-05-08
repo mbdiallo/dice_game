@@ -59,7 +59,6 @@ class Game
 		end
 
 		print "\n", 'Player D: '
-
 		i = 1
 		player_d.each do |key, value|
 	    if i < player_d.size
@@ -69,7 +68,6 @@ class Game
 	    end
 			i +=1
 		end
-
 		puts ' '
 	end
 
